@@ -1,0 +1,15 @@
+[submodule "modules/order-ms"]
+	path = modules/order-ms
+	url = https://github.com/augustomeireles05/async-communication-order-ms.git
+[submodule "modules/payment-ms"]
+	path = modules/payment-ms
+	url = https://github.com/augustomeireles05/async-communication-payment-ms.git
+[submodule "modules/gateway-ms"]
+	path = modules/gateway-ms
+	url = https://github.com/augustomeireles05/async-communication-gateway-ms.git
+[submodule "modules/server-ms"]
+	path = modules/server-ms
+	url = https://github.com/augustomeireles05/async-communication-server-ms.git
+[submodule "modules/aws-infra-cdk"]
+	path = modules/aws-infra-cdk
+	url = https://github.com/augustomeireles05/companyfood-aws-infra-cdk.git
